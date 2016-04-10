@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DistanceBetweenTwoPoints</string>
+    <string name="title_activity_two_location">Map</string>
+</resources>
